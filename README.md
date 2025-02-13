@@ -1,5 +1,5 @@
 # mac_changer
-make sure that your network is set to NAT (not NAT network just NAT)
+make sure that your network is set to NAT 
 
 change the mac address and stay anonymous
 
